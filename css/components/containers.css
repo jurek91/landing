@@ -1,0 +1,43 @@
+.container {
+  width: fit-content;
+  margin: 0 auto;
+  text-align: left;
+}
+
+/*.container h1 {
+  margin: 0;
+}*/
+
+.container p {
+  margin-top: -16px;
+}
+
+/*.container h1, .container p, .container a {
+
+}
+*/
+.container2 {
+  width: fit-content;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.footer {
+  background-color: #7bd1ea;
+  height: 200px;
+  margin-top: 16px;
+  text-align: center;
+}
+/*
+.footer ul {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+  display: inline;
+}
+*/
+/*.footer li {
+  display: inline;
+}
+*/
